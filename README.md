@@ -41,7 +41,7 @@ sudo cp mycmd /usr/local/bin/
 ### wget
 
 ```bash
-wget https://raw.githubusercontent.com/ErikWebDeveloper/mycmd/main/mycmd
+wget https://raw.githubusercontent.com/ErikWebDeveloper/mycmd/main/mycmd.sh
 
 chmod +x mycmd
 sudo mv mycmd /usr/local/bin/
@@ -50,7 +50,7 @@ sudo mv mycmd /usr/local/bin/
 ### curl
 
 ```bash
-curl -O https://raw.githubusercontent.com/ErikWebDeveloper/mycmd/main/mycmd
+curl -O https://raw.githubusercontent.com/ErikWebDeveloper/mycmd/main/mycmd.sh
 
 chmod +x mycmd
 sudo mv mycmd /usr/local/bin/
