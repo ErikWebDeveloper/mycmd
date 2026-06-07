@@ -31,7 +31,7 @@ sudo apt install fzf
 ### Git
 
 ```bash
-git clone https://github.com/ErikWebDeveloper/mycmd/blob/main/mycmd
+git clone https://github.com/ErikWebDeveloper/mycmd.git
 cd mycmd
 
 chmod +x mycmd
