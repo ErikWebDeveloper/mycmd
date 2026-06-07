@@ -31,7 +31,7 @@ sudo apt install fzf
 ### Git
 
 ```bash
-git clone https://github.com/TU_USUARIO/mycmd.git
+git clone https://github.com/ErikWebDeveloper/mycmd/blob/main/mycmd
 cd mycmd
 
 chmod +x mycmd
@@ -41,7 +41,7 @@ sudo cp mycmd /usr/local/bin/
 ### wget
 
 ```bash
-wget https://raw.githubusercontent.com/TU_USUARIO/mycmd/main/mycmd
+wget https://raw.githubusercontent.com/ErikWebDeveloper/mycmd/blob/main/mycmd
 
 chmod +x mycmd
 sudo mv mycmd /usr/local/bin/
@@ -50,7 +50,7 @@ sudo mv mycmd /usr/local/bin/
 ### curl
 
 ```bash
-curl -O https://raw.githubusercontent.com/TU_USUARIO/mycmd/main/mycmd
+curl -O https://raw.githubusercontent.com/ErikWebDeveloper/mycmd/blob/main/mycmd
 
 chmod +x mycmd
 sudo mv mycmd /usr/local/bin/
