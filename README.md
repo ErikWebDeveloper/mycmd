@@ -17,6 +17,29 @@ Hecho con **Bash** + **fzf**: pantalla de neón, panel de vista previa y tus scr
 
 ---
 
+## Índice
+
+* [Características](#características)
+* [Requisitos](#requisitos)
+* [Instalación](#instalación)
+  * [Git](#git)
+  * [wget](#wget)
+  * [curl](#curl)
+* [Cómo se usa](#cómo-se-usa)
+  * [1. Menú interactivo](#1-menú-interactivo)
+  * [2. Atajos del menú](#2-atajos-del-menú)
+  * [3. Ejecución directa](#3-ejecución-directa-alias-teclas-de-función-scripts)
+  * [4. Subcomandos](#4-subcomandos)
+* [Añadir tus propios scripts](#añadir-tus-propios-scripts)
+* [Personalización](#personalización)
+* [Problemas frecuentes](#problemas-frecuentes)
+* [Actualizar](#actualizar)
+* [Desinstalar](#desinstalar)
+* [Prueba rápida](#prueba-rápida)
+* [Licencia](#licencia)
+
+---
+
 ## Características
 
 * 🌆 Interfaz neón (cian, rosa, ámbar y violeta) con bordes redondeados.
